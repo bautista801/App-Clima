@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import Clima from './components/Clima'
 import {ClimaProvider} from './context/ClimaProvider'
 
